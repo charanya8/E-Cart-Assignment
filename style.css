@@ -71,10 +71,6 @@
     margin: 3px;
 }
 
-#womenButton {
-    display: none;
-}
-
-#kidButton {
+.product-list {
     display: none;
 }
